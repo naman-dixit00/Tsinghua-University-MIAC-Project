@@ -11,7 +11,7 @@
 
 <br />
 
-<img src="./THU MIAC Poster.jpg" alt="Future Learning with AI Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/naman-dixit00/Tsinghua-University---MIAC/main/Assets/THU%20MIAC%20Poster.jpg" width="100%" height="400" style="object-fit: cover;" />
 
 *Image Citation: Official promotional banner for the **Future Learning with AI: Higher Education Learning Innovation** Global Recruitment initiative, hosted by the **School of Education, Tsinghua University**.*
 
